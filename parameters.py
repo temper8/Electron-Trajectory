@@ -1,0 +1,22 @@
+m01=9.1094e-28
+ccc1=3.e10
+eqq1=-4.8032e-10 
+m0=9.1094e-31
+eqq=-1.602e-19  
+ccc=3.e8        
+a=0.22                        #    FT2   0.075
+R0=0.53                        #   FT2   0.55
+delr=0.0
+delfi=0.00
+nfi=0
+n=0 # power in dependence of toroidal field ripple on (r/a)**n 
+pparini=20.870273
+pperpini=0.1
+rini=0.08560186112972
+thetini=-0.060334066
+fiini=0  #pi/3
+tau_norm=1
+ccc_R0=ccc/R0*1.e-3
+
+cvr=m0/eqq
+cvr1=m01/eqq1
